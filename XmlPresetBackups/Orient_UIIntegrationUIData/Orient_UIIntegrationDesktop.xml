@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptPanel" id="Panel1" x="0.0" y="0.0" width="600.0"
+             height="500.0" itemColour="4279374354" itemColour2="4279374354"
+             borderSize="0.0" borderRadius="0.0">
+    <Component type="ScriptLabel" id="Label1" x="100.0" y="100.0" parentComponent="Panel1"
+               width="390.0" height="90.0" fontName="Avenir LT Std" text="ORIENT"
+               textColour="4294638070" fontStyle="Regular" fontSize="40.0" editable="0"/>
+  </Component>
+  <Component type="ScriptFloatingTile" id="FloatingTile1" x="0.0" y="300.0"
+             width="600.0" height="100.0" ContentType="Keyboard" bgColour="4284769380"
+             itemColour="452984831" itemColour2="4294967295" textColour="0"
+             Data="{&#10;  &quot;KeyWidth&quot;: 14.0,&#10;  &quot;DisplayOctaveNumber&quot;: false,&#10;  &quot;LowKey&quot;: 26,&#10;  &quot;HiKey&quot;: 127,&#10;  &quot;CustomGraphics&quot;: false,&#10;  &quot;DefaultAppearance&quot;: false,&#10;  &quot;BlackKeyRatio&quot;: 0.699999988079071,&#10;  &quot;ToggleMode&quot;: false,&#10;  &quot;MidiChannel&quot;: 1,&#10;  &quot;UseVectorGraphics&quot;: true,&#10;  &quot;UseFlatStyle&quot;: false,&#10;  &quot;MPEKeyboard&quot;: false,&#10;  &quot;MPEStartChannel&quot;: 2,&#10;  &quot;MPEEndChannel&quot;: 16&#10;}"/>
+  <Component type="ScriptImage" id="Image1" x="280.0" y="230.0" fileName="{PROJECT_FOLDER}Frame 2.png"
+             width="40.0" height="40.0"/>
+  <Component type="ScriptLabel" id="Label2" x="472.0" y="0.0" text="FL Studio Midi Test"/>
+  <Component type="ScriptLabel" id="Label3" x="0.0" y="0.0" text="Bujaa Beats"
+             alignment="left"/>
+  <Component type="ScriptLabel" id="Label4" x="240.0" y="260.0" text="Tailore Audio Software"
+             alignment="left" multiline="1" textColour="637534207"/>
+  <Component type="ScriptLabel" id="Label5" x="460.0" y="260.0" text="Powered by NAKOF"
+             alignment="right" multiline="1" textColour="637534207" fontSize="10.0"/>
+</ContentProperties>
